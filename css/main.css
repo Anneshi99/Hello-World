@@ -1,5 +1,18 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  color: #070520;
+}
 
+h1 {
+  color: #FDAED2;
+}
+h3 {
+  color: #E12901;
+}
 
 
 h1 {
@@ -14,13 +27,6 @@ h3 {
   font-family: serif;
 }
 
-h4 {
-  font-family: monospace;
-}
-
-h4 {
-  font-family: cursive;
-}
 
 /* Flexible images */
 
